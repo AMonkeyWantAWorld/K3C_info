@@ -1,0 +1,12 @@
+{
+    "domain": "K3C_info",
+    "name": "K3C_info",
+    "documentation": "",
+    "requirements": [
+    ],
+    "version": "1.0.0",
+    "dependencies": [],
+    "codeowners": [
+      "@tab"
+    ]
+  }
