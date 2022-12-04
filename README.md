@@ -7,5 +7,5 @@ nameList = ["2.4G 温度","2.4G 功率","5G 温度","内存使用率","CPU1 温�
 sensor:  
 &ensp;\-&ensp;platform: K3C_info  
 &ensp;&ensp;&ensp;host: 192.168.2.1  
-&ensp;&ensp;&ensp;password: 123456qwe  
-&ensp;&ensp;&ensp;username: tab   
+&ensp;&ensp;&ensp;password: ***  
+&ensp;&ensp;&ensp;username: admin
